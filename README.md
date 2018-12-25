@@ -1,1 +1,2 @@
-# python list practice
+# **Python List Pactice**
+## Ipython (Jupyter Notebook) file 
